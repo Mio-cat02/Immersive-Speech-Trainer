@@ -1,0 +1,7 @@
+{
+  "name": "FlowTalk",
+  "description": "An immersive English speaking practice app designed to help users transition from scripted responses to fluid expression through gamified, scenario-based conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
